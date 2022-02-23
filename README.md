@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **ahmedabdelsattar96@gmail.com**
 
+- 📄 To know more about me, My experince, Education and skills I have you can see my updated Resume through this link : https://drive.google.com/file/d/1utvm-CRIXbTNXCzJxz9MThDxBpb4HinI/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-abd-el-sattar-hagras-660394130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-abd-el-sattar-hagras" height="30" width="40" /></a>
